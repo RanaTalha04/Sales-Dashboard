@@ -4,13 +4,24 @@ A dynamic and interactive sales dashboard to visualize and track key sales metri
 
 ### Features
 
-**KPI Overview** : Track revenue, profit, total sales, and growth at a glance.
+**KPI Overview** : Track total profit, total sales, and total quantity at a glance.
+![KPI Profit](images/KPI%20Profit.png)
 
-**Interactive Charts** : Line, bar, and pie charts for easy trend analysis.
+![KPI Sales](images/KPI%20Sales.png)
+
+![KPI Quantity](images/KPI%20Quant.png)
+
+**Interactive Charts** : Spark Line, bar in bar for easy trend analysis.
+
+![Trend over time](images/Trend%20Time.png)
+
 
 **Product & Regional Insights** : Identify top-performing products, regions, and sales reps.
+![Subcategory](images/Subcategory.png)
 
-**Dynamic Filters** : Filter by date, product, or region for deeper analysis.
+**Dynamic Filters** : Filter by year, category, or region for deeper analysis.
+
+![Fitler](images/Filters.png)
 
 **User-Friendly Design** : Clean interface for quick insights.
 
@@ -21,3 +32,6 @@ Python | Pandas | Plotly | Dash (or your actual stack)
 ### Purpose
 
 Designed for sales teams and analysts to monitor performance, uncover trends, and make smarter business decisions.
+
+
+![Sales Dashboard](images/Sales%20Dashboard.png)
