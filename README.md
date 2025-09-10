@@ -1,4 +1,4 @@
-## Sales Dashboard
+# Sales Dashboard
 
 A dynamic and interactive sales dashboard to visualize and track key sales metrics, analyze trends, and make data-driven decisions.
 
