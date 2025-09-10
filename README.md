@@ -5,7 +5,7 @@ A dynamic and interactive sales dashboard to visualize and track key sales metri
 ### Features
 
 **KPI Overview** : Track total profit, total sales, and total quantity at a glance.
-![KPI Profit](images/KPI%20Profit.png)
+![KPI Profit](Images/KPI%20Profit.png)
 
 ![KPI Sales](images/KPI%20Sales.png)
 
